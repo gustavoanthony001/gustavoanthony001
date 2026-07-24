@@ -1,4 +1,4 @@
-## Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=FF4F4F&width=435&lines=Ol%C3%A1!+Sou+Gustavo" alt="Typing SVG" /></a>
 
 <!--
 **gustavoanthony001/gustavoanthony001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
