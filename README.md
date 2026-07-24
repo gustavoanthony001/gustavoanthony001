@@ -4,3 +4,5 @@ Estudante de Desenvolvimento de Sistemas
 
 Atualmente sou estudante e não possuo emprego, faço ensino médio técnico em Desenvolvimento de Sistemas e curso SENAI em Desenvolvimento de Sistemas também
 
+
+
